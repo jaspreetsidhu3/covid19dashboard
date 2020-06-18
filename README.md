@@ -23,7 +23,7 @@ Native Android Application which provides stats, hospital details, news, advisor
 
 <br/>
 <h1>News</h1>
-
+<b>Latest guidelines</b>
 <br/>
 <img src="screenshoot/i.jpg" height="400"/>
 <br/>
