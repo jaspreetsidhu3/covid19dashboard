@@ -12,7 +12,7 @@ Native Android Application which provides stats, hospital details, news, advisor
 
 <br/>
 <h1>Stats</h1>
-<b>Realtime stats provided to users</b>
+<b>Providing Realtime stats to users</b>
 <br/>
 <span><img src="screenshoot/b.jpg" height="400"/> <img src="screenshoot/c.jpg" height="400"/> <img src="screenshoot/e.jpg" height="400"/> </span> 
 <br/>
