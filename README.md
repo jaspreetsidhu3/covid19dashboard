@@ -13,15 +13,18 @@ Native Android Application which provides stats, hospital details, news, advisor
 <br/>
 <h1>Stats</h1>
 <b>Realtime stats provided to users</b>
+<br/>
 <span><img src="screenshoot/b.jpg" height="400"/> <img src="screenshoot/c.jpg" height="400"/> <img src="screenshoot/e.jpg" height="400"/> </span> 
 <br/>
 <h1>Details</h1>
 <b>Emergency Detail</b>
+<br/>
 <span><img src="screenshoot/f.jpg" height="400"/> <img src="screenshoot/g.jpg" height="400"/> <img src="screenshoot/h.jpg" height="400"/> </span>
 
 <br/>
 <h1>News</h1>
-<b>Latest guidelines</b>emergency
+
+<br/>
 <img src="screenshoot/i.jpg" height="400"/>
 <br/>
 <h3>Developed by Jaspreet Singh</h3>
