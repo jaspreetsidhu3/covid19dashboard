@@ -28,7 +28,7 @@ Native Android Application which provides stats, hospital details, news, advisor
 <img src="screenshoot/i.jpg" height="400"/>
 <br/>
 <h3>Developed by Jaspreet Singh</h3>
-Gmail =jaspreetsidhu3may@gmail.com
+Gmail =jaspreetsidhu3may@gmail.com </br>
 linkedin =https://www.linkedin.com/in/jaspreetsidhu13/
 
 <h3>More about COVID19</h3>
