@@ -8,9 +8,7 @@ Native Android Application which provides stats, hospital details, news, advisor
 
 <br/>
 <h1>Screenshots</h1>
-<span><img src="screenshoot/a.jpg" height="400"/>  <img src="screenshoot/b.jpg" height="400"/> <img src="screenshoot/c.jpg" height="400"/> <img src="screenshoot/d.jpg" height="400"/> <img src="screenshoot/e.jpg" height="400"/> <img src="screenshoot/f.jpg" height="400"/> <img src="screenshoot/g.jpg" height="400"/> <img src="screenshoot/h.jpg" height="400"/> <img src="screenshoot/i.jpg" height="400"/></span>
 
-<br/>
 <h1>Stats</h1>
 <b>Providing Realtime stats to users</b>
 <br/>
