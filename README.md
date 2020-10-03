@@ -1,4 +1,4 @@
-# Covid-19-Database
+# Covid-Setu APK
 Stats | Hospital | News | Advisories
 <br/>
 
