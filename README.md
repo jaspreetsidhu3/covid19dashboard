@@ -1,4 +1,4 @@
-# Covid-Setu APK
+# Covid19 Dashboard Setu India APK
 Stats | Hospital | News | Advisories
 <br/>
 
